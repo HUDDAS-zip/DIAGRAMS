@@ -1,0 +1,277 @@
+{
+  "version": "32.7.1",
+  "data": "<mxfile host=\"app.diagrams.net\"><diagram name=\"Page-1\" id=\"NvwCskz7mLdKY8tDQyIE\"><mxGraphModel dx=\"2162\" dy=\"1128\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\"><root><mxCell id=\"0\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"YrxCxA6qnkvb3Yk3952w-20\" parent=\"1\" style=\"swimlane;startSize=0;\" value=\"\" vertex=\"1\"><mxGeometry height=\"1040\" width=\"620\" x=\"140\" y=\"130\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-78\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-24\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-74\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"510\" y=\"1010\"/><mxPoint x=\"265\" y=\"1010\"/></Array></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-24\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;\" value=\"&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif; color: rgb(51, 51, 51);&quot;&gt;Memverifikasi laporan masuk&lt;br&gt;&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"450\" y=\"880\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-49\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-26\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-28\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-26\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;mengelola&lt;br/&gt;data&lt;span style=&quot;letter-spacing:2.0pt&quot;&gt; &lt;/span&gt;laporan&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"440\" y=\"480\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-59\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-28\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-41\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"320\" y=\"-41.96078431372549\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-28\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;mendistribusikan&lt;br/&gt;tugas ke tim teknis&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"440\" y=\"620\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-32\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;&lt;span style=&quot;letter-spacing:-.6pt&quot;&gt;&amp;nbsp;&lt;/span&gt;memantau&lt;span style=&quot;letter-spacing:-.55pt&quot;&gt;&lt;br&gt;&lt;/span&gt;proses &lt;span style=&quot;letter-spacing:-.1pt&quot;&gt;perbaikan&lt;/span&gt;&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"450\" y=\"730\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-43\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;memperbarui&lt;span style=&quot;letter-spacing:-.75pt&quot;&gt; &lt;/span&gt;status&lt;span style=&quot;letter-spacing:-.75pt&quot;&gt;&lt;br/&gt;&lt;/span&gt;penyelesaian di sistem&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"90\" width=\"120\" x=\"440\" y=\"230\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-61\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-42\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-32\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-42\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;melakukan&lt;br/&gt;perbaikan lapangan&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"340\" y=\"120\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-67\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\"><mxGeometry relative=\"1\" x=\"-0.106\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"350\" y=\"95.42\"/><mxPoint x=\"390\" y=\"95.42\"/></Array><mxPoint x=\"350\" y=\"70.00039891549811\" as=\"sourcePoint\"/><mxPoint x=\"390\" y=\"120.42\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-41\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;Melihat&lt;br/&gt;laporan&amp;nbsp;&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"60\" width=\"120\" x=\"290\" y=\"10\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-46\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;Membuat&lt;br/&gt;laporan&amp;nbsp;&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"60\" width=\"100\" x=\"10\" y=\"500\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-63\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-43\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-24\"><mxGeometry relative=\"1\" x=\"-0.0754\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"379.5\" y=\"265\"/><mxPoint x=\"379.5\" y=\"920\"/></Array><mxPoint x=\"429.1399999999999\" y=\"285.35\" as=\"sourcePoint\"/><mxPoint x=\"439.98\" y=\"931.5999999999999\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-80\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-74\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-75\"><mxGeometry relative=\"1\" x=\"0.0792\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"265\" y=\"690\"/></Array></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-74\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;perkembangan&lt;span style=&quot;letter-spacing:-.4pt&quot;&gt; &lt;/span&gt;proses&lt;span style=&quot;letter-spacing:-.45pt&quot;&gt;&lt;br/&gt;&lt;/span&gt;perbaikan&lt;span style=&quot;letter-spacing:-.45pt&quot;&gt; &lt;/span&gt;secara real time&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"100\" width=\"140\" x=\"195\" y=\"870\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-75\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;\" value=\"bukti hasil\" vertex=\"1\"><mxGeometry height=\"80\" width=\"120\" x=\"60\" y=\"650\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-77\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;\" value=\"&lt;span lang=&quot;id&quot; style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);&quot;&gt;Menyimpan&lt;span style=&quot;letter-spacing:-.4pt&quot;&gt; &lt;/span&gt;dan&lt;span style=&quot;letter-spacing:-.5pt&quot;&gt; &lt;/span&gt;menampilkan&lt;span style=&quot;letter-spacing:-.5pt&quot;&gt; &lt;/span&gt;Riwayat laporan&lt;span style=&quot;letter-spacing:-.45pt&quot;&gt;&lt;/span&gt;&lt;/span&gt;\" vertex=\"1\"><mxGeometry height=\"110\" width=\"150\" x=\"40\" y=\"780\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-82\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-77\" style=\"endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=classicThin;startFill=1;\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"70\" y=\"780\" as=\"sourcePoint\"/><mxPoint x=\"120\" y=\"730\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-83\" connectable=\"0\" parent=\"YrxCxA6qnkvb3Yk3952w-82\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;\" value=\"&amp;lt;&amp;lt;include&amp;gt;&amp;gt;\" vertex=\"1\"><mxGeometry relative=\"1\" x=\"0.4015\" as=\"geometry\"><mxPoint as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-3\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;\" value=\"melapor melewati web\" vertex=\"1\"><mxGeometry height=\"60\" width=\"100\" x=\"155\" y=\"560\" as=\"geometry\"/></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-4\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" style=\"ellipse;whiteSpace=wrap;html=1;shapeInside=1;\" value=\"melapor melewati whatsapp\" vertex=\"1\"><mxGeometry height=\"60\" width=\"100\" x=\"155\" y=\"430\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-84\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-75\" style=\"rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-46\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"114.99820407806237\" y=\"649.9980607375755\" as=\"sourcePoint\"/><mxPoint x=\"300.3813043478261\" y=\"337.21\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-9\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-46\" style=\"endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" target=\"e3nPItF86kDmSI9FI-6d-4\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" x=\"0.7869\" as=\"geometry\"><Array as=\"points\"/><mxPoint x=\"330\" y=\"560\" as=\"sourcePoint\"/><mxPoint x=\"380\" y=\"510\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-10\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"YrxCxA6qnkvb3Yk3952w-46\" style=\"endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" target=\"e3nPItF86kDmSI9FI-6d-3\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" x=\"0.7869\" as=\"geometry\"><Array as=\"points\"/><mxPoint x=\"120\" y=\"690\" as=\"sourcePoint\"/><mxPoint x=\"220\" y=\"560\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-12\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"e3nPItF86kDmSI9FI-6d-4\" style=\"endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-26\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" x=\"0.8766\" as=\"geometry\"><Array as=\"points\"/><mxPoint x=\"300\" y=\"380\" as=\"sourcePoint\"/><mxPoint x=\"365\" y=\"399\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"e3nPItF86kDmSI9FI-6d-11\" edge=\"1\" parent=\"YrxCxA6qnkvb3Yk3952w-20\" source=\"e3nPItF86kDmSI9FI-6d-3\" style=\"endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-26\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" x=\"0.7869\" as=\"geometry\"><Array as=\"points\"/><mxPoint x=\"320\" y=\"560\" as=\"sourcePoint\"/><mxPoint x=\"450\" y=\"520\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-9\" parent=\"1\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;\" value=\"admin sarpras\" vertex=\"1\"><mxGeometry height=\"140\" width=\"80\" x=\"850\" y=\"760\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-47\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-10\" style=\"rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"YrxCxA6qnkvb3Yk3952w-46\"><mxGeometry relative=\"1\" as=\"geometry\"><mxPoint x=\"120.32530120481943\" y=\"650\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-10\" parent=\"1\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;\" value=\"pelapor\" vertex=\"1\"><mxGeometry height=\"140\" width=\"80\" x=\"10\" y=\"600\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-11\" parent=\"1\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;\" value=\"tim teknis\" vertex=\"1\"><mxGeometry height=\"140\" width=\"80\" x=\"860\" y=\"190\" as=\"geometry\"/></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-50\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-9\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-26\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"610\" y=\"680\" as=\"sourcePoint\"/><mxPoint x=\"660\" y=\"630\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-52\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-9\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;\" target=\"YrxCxA6qnkvb3Yk3952w-28\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"880\" y=\"707\" as=\"sourcePoint\"/><mxPoint x=\"740\" y=\"610\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-53\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-9\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.982;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;\" target=\"YrxCxA6qnkvb3Yk3952w-24\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"970\" y=\"927\" as=\"sourcePoint\"/><mxPoint x=\"830\" y=\"830\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-54\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-9\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.974;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;\" target=\"YrxCxA6qnkvb3Yk3952w-32\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"970\" y=\"927\" as=\"sourcePoint\"/><mxPoint x=\"830\" y=\"830\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-69\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-41\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;\" target=\"YrxCxA6qnkvb3Yk3952w-11\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"660\" y=\"210\" as=\"sourcePoint\"/><mxPoint x=\"710\" y=\"160\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-70\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-43\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;\" target=\"YrxCxA6qnkvb3Yk3952w-11\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"650\" y=\"340\" as=\"sourcePoint\"/><mxPoint x=\"930\" y=\"467\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"YrxCxA6qnkvb3Yk3952w-71\" edge=\"1\" parent=\"1\" source=\"YrxCxA6qnkvb3Yk3952w-42\" style=\"endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;\" target=\"YrxCxA6qnkvb3Yk3952w-11\" value=\"\"><mxGeometry height=\"50\" relative=\"1\" width=\"50\" as=\"geometry\"><mxPoint x=\"630\" y=\"220\" as=\"sourcePoint\"/><mxPoint x=\"910\" y=\"347\" as=\"targetPoint\"/></mxGeometry></mxCell></root></mxGraphModel></diagram></mxfile>",
+  "pages": [
+    {
+      "id": "NvwCskz7mLdKY8tDQyIE",
+      "name": "Page-1",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-20",
+          "type": "node",
+          "parent": "1"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-78",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-24",
+          "target": "YrxCxA6qnkvb3Yk3952w-74"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-24",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "Memverifikasi laporan masuk",
+          "html": "<span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif; color: rgb(51, 51, 51);\">Memverifikasi laporan masuk<br></span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-49",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-26",
+          "target": "YrxCxA6qnkvb3Yk3952w-28"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-26",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "mengelola\ndata laporan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">mengelola<br/>data<span style=\"letter-spacing:2.0pt\"> </span>laporan</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-59",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-28",
+          "target": "YrxCxA6qnkvb3Yk3952w-41"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-28",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "mendistribusikan\ntugas ke tim teknis",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">mendistribusikan<br/>tugas ke tim teknis</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-32",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "memantauproses perbaikan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\"><span style=\"letter-spacing:-.6pt\">&nbsp;</span>memantau<span style=\"letter-spacing:-.55pt\"><br></span>proses <span style=\"letter-spacing:-.1pt\">perbaikan</span></span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-43",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "memperbarui statuspenyelesaian di sistem",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">memperbarui<span style=\"letter-spacing:-.75pt\"> </span>status<span style=\"letter-spacing:-.75pt\"><br/></span>penyelesaian di sistem</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-61",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-42",
+          "target": "YrxCxA6qnkvb3Yk3952w-32"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-42",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "melakukan\nperbaikan lapangan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">melakukan<br/>perbaikan lapangan</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-67",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-41",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "Melihat\nlaporan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">Melihat<br/>laporan&nbsp;</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-46",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "Membuat\nlaporan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">Membuat<br/>laporan&nbsp;</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-63",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-43",
+          "target": "YrxCxA6qnkvb3Yk3952w-24"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-80",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-74",
+          "target": "YrxCxA6qnkvb3Yk3952w-75"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-74",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "perkembangan prosesperbaikan secara real time",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">perkembangan<span style=\"letter-spacing:-.4pt\"> </span>proses<span style=\"letter-spacing:-.45pt\"><br/></span>perbaikan<span style=\"letter-spacing:-.45pt\"> </span>secara real time</span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-75",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "bukti hasil"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-77",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "Menyimpan dan menampilkan Riwayat laporan",
+          "html": "<span lang=\"id\" style=\"font-size: 10.5pt; font-family: Arial, sans-serif; color: rgb(49, 49, 49);\">Menyimpan<span style=\"letter-spacing:-.4pt\"> </span>dan<span style=\"letter-spacing:-.5pt\"> </span>menampilkan<span style=\"letter-spacing:-.5pt\"> </span>Riwayat laporan<span style=\"letter-spacing:-.45pt\"></span></span>"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-82",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-77"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-83",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-82",
+          "label": "&lt;&lt;include&gt;&gt;"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-3",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "melapor melewati web"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-4",
+          "type": "node",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "label": "melapor melewati whatsapp"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-84",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-75",
+          "target": "YrxCxA6qnkvb3Yk3952w-46"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-9",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-46",
+          "target": "e3nPItF86kDmSI9FI-6d-4"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-10",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "YrxCxA6qnkvb3Yk3952w-46",
+          "target": "e3nPItF86kDmSI9FI-6d-3"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-12",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "e3nPItF86kDmSI9FI-6d-4",
+          "target": "YrxCxA6qnkvb3Yk3952w-26"
+        },
+        {
+          "id": "e3nPItF86kDmSI9FI-6d-11",
+          "type": "edge",
+          "parent": "YrxCxA6qnkvb3Yk3952w-20",
+          "source": "e3nPItF86kDmSI9FI-6d-3",
+          "target": "YrxCxA6qnkvb3Yk3952w-26"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-9",
+          "type": "node",
+          "parent": "1",
+          "label": "admin sarpras"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-47",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-10",
+          "target": "YrxCxA6qnkvb3Yk3952w-46"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-10",
+          "type": "node",
+          "parent": "1",
+          "label": "pelapor"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-11",
+          "type": "node",
+          "parent": "1",
+          "label": "tim teknis"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-50",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-9",
+          "target": "YrxCxA6qnkvb3Yk3952w-26"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-52",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-9",
+          "target": "YrxCxA6qnkvb3Yk3952w-28"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-53",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-9",
+          "target": "YrxCxA6qnkvb3Yk3952w-24"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-54",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-9",
+          "target": "YrxCxA6qnkvb3Yk3952w-32"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-69",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-41",
+          "target": "YrxCxA6qnkvb3Yk3952w-11"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-70",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-43",
+          "target": "YrxCxA6qnkvb3Yk3952w-11"
+        },
+        {
+          "id": "YrxCxA6qnkvb3Yk3952w-71",
+          "type": "edge",
+          "parent": "1",
+          "source": "YrxCxA6qnkvb3Yk3952w-42",
+          "target": "YrxCxA6qnkvb3Yk3952w-11"
+        }
+      ]
+    }
+  ]
+}
